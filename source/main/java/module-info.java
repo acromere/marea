@@ -18,11 +18,11 @@ module com.avereon.marea {
 	//requires org.testfx;
 	//requires org.testfx.junit5;
 
-	opens com.avereon.marea.fx to javafx.graphics;
+	opens com.acromere.marea.fx to javafx.graphics;
 
-	exports com.avereon.marea;
-	opens com.avereon.marea to javafx.graphics;
-	exports com.avereon.marea.geom;
-	opens com.avereon.marea.geom to javafx.graphics;
-	exports com.avereon.marea.fx;
+	exports com.acromere.marea;
+	opens com.acromere.marea to javafx.graphics;
+	exports com.acromere.marea.geom;
+	opens com.acromere.marea.geom to javafx.graphics;
+	exports com.acromere.marea.fx;
 }

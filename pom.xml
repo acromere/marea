@@ -6,12 +6,12 @@
 	<modelVersion>4.0.0</modelVersion>
 
 	<parent>
-		<groupId>com.avereon.pom</groupId>
+		<groupId>com.acromere.pom</groupId>
 		<artifactId>jar</artifactId>
-		<version>3.6.1</version>
+		<version>1.0-SNAPSHOT</version>
 	</parent>
 
-	<groupId>com.avereon</groupId>
+	<groupId>com.acromere</groupId>
 	<artifactId>marea</artifactId>
 	<version>0.4-SNAPSHOT</version>
 	<packaging>jar</packaging>
@@ -33,7 +33,7 @@
 	<repositories>
 		<repository>
 			<id>avn</id>
-			<url>https://repo.avereon.com/avn</url>
+			<url>https://repo.acromere.com/avn</url>
 		</repository>
 	</repositories>
 
@@ -56,13 +56,13 @@
 	<dependencies>
 
 		<dependency>
-			<groupId>com.avereon</groupId>
+			<groupId>com.acromere</groupId>
 			<artifactId>curve</artifactId>
 			<version>${curve.version}</version>
 		</dependency>
 
 		<dependency>
-			<groupId>com.avereon</groupId>
+			<groupId>com.acromere</groupId>
 			<artifactId>zerra</artifactId>
 			<version>${zerra.version}</version>
 		</dependency>
@@ -115,7 +115,7 @@
 				<!-- This configuration allows the JUnit test runner to find the unit tests -->
 				<configuration>
 					<argLine>
-						--add-opens=com.avereon.marea/com.avereon.marea=ALL-UNNAMED
+						--add-opens=com.acromere.marea/com.acromere.marea=ALL-UNNAMED
 					</argLine>
 				</configuration>
 			</plugin>
