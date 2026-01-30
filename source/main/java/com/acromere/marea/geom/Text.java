@@ -1,6 +1,6 @@
 package com.acromere.marea.geom;
 
-import com.avereon.curve.math.Point;
+import com.acromere.curve.math.Point;
 import com.acromere.marea.Font;
 import com.acromere.marea.Shape2d;
 import com.acromere.marea.Shape3d;

@@ -1,10 +1,10 @@
 package com.acromere.marea.test;
 
-import com.avereon.curve.math.Arithmetic;
+import com.acromere.curve.math.Arithmetic;
 import javafx.geometry.Point3D;
 import org.assertj.core.data.Offset;
 
-import static com.avereon.curve.math.Arithmetic.DEFAULT_PRECISION_DIGITS;
+import static com.acromere.curve.math.Arithmetic.DEFAULT_PRECISION_DIGITS;
 
 public class TestUtil {
 

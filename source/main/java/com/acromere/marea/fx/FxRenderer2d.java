@@ -2,11 +2,11 @@ package com.acromere.marea.fx;
 
 import com.acromere.marea.*;
 import com.acromere.marea.geom.*;
-import com.avereon.curve.math.Geometry;
-import com.avereon.curve.math.Point;
-import com.avereon.curve.math.Vector;
-import com.avereon.marea.*;
-import com.avereon.marea.geom.*;
+import com.acromere.curve.math.Geometry;
+import com.acromere.curve.math.Point;
+import com.acromere.curve.math.Vector;
+import com.acromere.marea.*;
+import com.acromere.marea.geom.*;
 import javafx.beans.property.DoubleProperty;
 import javafx.beans.property.ObjectProperty;
 import javafx.beans.property.SimpleDoubleProperty;

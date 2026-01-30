@@ -1,17 +1,17 @@
-module com.avereon.marea {
+module com.acromere.marea {
 
 	// Compile-time only
 	requires static lombok;
 
 	// Both compile-time and run-time
-	requires com.avereon.curve;
-	requires com.avereon.zevra;
+	requires com.acromere.curve;
+	requires com.acromere.zevra;
 
 	requires java.logging;
 	requires javafx.base;
 	requires javafx.graphics;
 	requires javafx.controls;
-	requires com.avereon.zerra;
+	requires com.acromere.zerra;
 
 	//requires org.assertj.core;
 	//requires org.junit.jupiter.api;

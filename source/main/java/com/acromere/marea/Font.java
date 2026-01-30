@@ -1,6 +1,6 @@
 package com.acromere.marea;
 
-import com.avereon.zerra.font.FontUtil;
+import com.acromere.zerra.font.FontUtil;
 import javafx.scene.text.FontPosture;
 import javafx.scene.text.FontWeight;
 import lombok.Getter;

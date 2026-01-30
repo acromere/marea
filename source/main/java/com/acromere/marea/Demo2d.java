@@ -1,9 +1,9 @@
 package com.acromere.marea;
 
 import com.acromere.marea.geom.*;
-import com.avereon.curve.math.Point;
+import com.acromere.curve.math.Point;
 import com.acromere.marea.fx.FxRenderer2d;
-import com.avereon.marea.geom.*;
+import com.acromere.marea.geom.*;
 import javafx.application.Application;
 import javafx.scene.Parent;
 import javafx.scene.Scene;
