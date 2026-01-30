@@ -48,7 +48,7 @@
 		<!-- Version numbers updated 07 Mar 2023 -->
 		<!-- Runtime dependencies -->
 		<curve.version>0.6-SNAPSHOT</curve.version>
-		<zerra.version>0.11-SNAPSHOT</zerra.version>
+		<zerra.version>0.12-SNAPSHOT</zerra.version>
 		<openjfx.version>25.0.1</openjfx.version>
 		<testfx.version>4.0.18</testfx.version>
 	</properties>
