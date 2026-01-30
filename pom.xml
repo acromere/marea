@@ -32,8 +32,8 @@
 
 	<repositories>
 		<repository>
-			<id>avn</id>
-			<url>https://repo.acromere.com/avn</url>
+			<id>acm</id>
+			<url>https://repo.acromere.com/acm</url>
 		</repository>
 	</repositories>
 
