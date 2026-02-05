@@ -1,4 +1,4 @@
-name: CI
+name: Acromere Marea CI
 
 on:
   push:
